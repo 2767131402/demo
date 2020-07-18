@@ -1,0 +1,49 @@
+2020-07-18 12:54:09.171 [main] INFO  com.zhenglei.DemoApplication - Starting DemoApplication on DESKTOP-P6BDC1F with PID 5620 (D:\soft\elk\demo\target\classes started by Administrator in D:\soft\elk\demo)
+2020-07-18 12:54:09.177 [main] INFO  com.zhenglei.DemoApplication - No active profile set, falling back to default profiles: default
+2020-07-18 12:54:10.424 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-07-18 12:54:10.438 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-07-18 12:54:10.439 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-07-18 12:54:10.440 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-07-18 12:54:10.549 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-07-18 12:54:10.550 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1299 ms
+2020-07-18 12:54:10.806 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-18 12:54:11.016 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-07-18 12:54:11.044 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-18 12:54:11.048 [main] INFO  com.zhenglei.DemoApplication - Started DemoApplication in 2.328 seconds (JVM running for 3.666)
+2020-07-18 12:54:44.827 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-18 12:54:44.827 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-07-18 12:54:44.833 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-07-18 12:54:44.844 [http-nio-8080-exec-1] ERROR com.zhenglei.controller.TestControler - 55.3.244.1 GET /index.html 15824 97
+2020-07-18 13:21:31.205 [main] INFO  com.zhenglei.DemoApplication - Starting DemoApplication on DESKTOP-P6BDC1F with PID 10492 (D:\soft\elk\demo\target\classes started by Administrator in D:\soft\elk\demo)
+2020-07-18 13:21:31.208 [main] INFO  com.zhenglei.DemoApplication - No active profile set, falling back to default profiles: default
+2020-07-18 13:21:32.048 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-07-18 13:21:32.058 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-07-18 13:21:32.059 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-07-18 13:21:32.060 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-07-18 13:21:32.156 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-07-18 13:21:32.156 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 912 ms
+2020-07-18 13:21:32.331 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-18 13:21:32.473 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-07-18 13:21:32.494 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-18 13:21:32.497 [main] INFO  com.zhenglei.DemoApplication - Started DemoApplication in 1.51 seconds (JVM running for 2.26)
+2020-07-18 13:21:38.540 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-18 13:21:38.540 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-07-18 13:21:38.543 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2020-07-18 13:21:38.558 [http-nio-8080-exec-1] ERROR com.zhenglei.controller.TestControler - 55.3.244.1 GET /index.html 15824 97
+2020-07-18 13:22:17.788 [http-nio-8080-exec-5] ERROR com.zhenglei.controller.TestControler - 55.3.244.1 GET /index.html 15824 67
+2020-07-18 13:24:17.339 [main] INFO  com.zhenglei.DemoApplication - Starting DemoApplication on DESKTOP-P6BDC1F with PID 2612 (D:\soft\elk\demo\target\classes started by Administrator in D:\soft\elk\demo)
+2020-07-18 13:24:17.341 [main] INFO  com.zhenglei.DemoApplication - No active profile set, falling back to default profiles: default
+2020-07-18 13:24:18.032 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-07-18 13:24:18.041 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-07-18 13:24:18.042 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-07-18 13:24:18.042 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-07-18 13:24:18.126 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-07-18 13:24:18.126 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 752 ms
+2020-07-18 13:24:18.269 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-18 13:24:18.378 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-07-18 13:24:18.395 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-18 13:24:18.398 [main] INFO  com.zhenglei.DemoApplication - Started DemoApplication in 1.278 seconds (JVM running for 1.993)
+2020-07-18 13:24:34.454 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-18 13:24:34.455 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-07-18 13:24:34.458 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2020-07-18 13:24:34.471 [http-nio-8080-exec-1] ERROR com.zhenglei.controller.TestControler - 55.3.244.1 GET /index.html 15824 9
